@@ -1,0 +1,2 @@
+# Heart-Rate-Monitor
+“Heart Rate Monitor” is a personal monitoring device that senses the pulse rate of the users. It allows real time storage of data over the cloud. So the doctors can access the data from any corner of the world with the help of the web portal developed to analyze it.  It is of prime benefit for the patients suffering from high blood pressure who need to regularly monitor their heart-rate. This project uses the RASPBERRY PI Microcontroller.
